@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	font-family: 'Annie Use Your Telescope', cursive;
+	color: #2E4053;
+	background-color: white;
+	background-size: cover;
+}
+
+hr{
+  width: 200px;
+}
+
+p {
+font-size: 22px;
+
+}
+img{
+	width: 800px;
+}
+
+#company{
+	font-style: bolder; 
+}
