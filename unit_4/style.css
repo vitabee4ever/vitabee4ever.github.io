@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+	background-color: white;
+	background-size: cover;
+	line-height: 1em;
+}
+
+hr{
+  width: 200px;
+}
+
+p {
+	text-align: center;
+}
+img{
+	width: 800px;
+}
+
+#company{
+	font-family: 'Amatic SC', cursive;
+	font-style: bolder;
+	font-size: 60px;
+	color: #7EBF8C;
+
+}
+
+#slogan{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 30px;
+	color:#bf7eb1;
+
+}
+
+.links{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	color: #7EBF8C;
+
+}
+
+.message{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 25px;
+	color:#bf7eb1;
+}
