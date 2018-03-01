@@ -1,0 +1,84 @@
+body {
+	text-align: center;
+	background-size: cover;
+	line-height: 1em;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 20px;
+	color:#bf7eb1;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+hr{
+  width: 200px;
+}
+
+p {
+	text-align: center;
+}
+img{
+	width: 800px;
+}
+
+#company{
+	font-family: 'Amatic SC', cursive;
+	font-style: bolder;
+	font-size: 60px;
+	color: #7EBF8C;
+
+}
+
+#slogan{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 30px;
+	color:#bf7eb1;
+
+}
+
+.links{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	color: #7EBF8C;
+
+}
+
+.message{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 25px;
+	color: black;
+}
