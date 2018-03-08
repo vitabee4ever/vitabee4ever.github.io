@@ -83,9 +83,13 @@ hr{
   width: 200px;
 }
 
-p {
+.imgtext {
 	text-align: center;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 25px;
+	color:#bf7eb1;
 }
+
 img{
 	width: 800px;
 }
